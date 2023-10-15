@@ -33,7 +33,7 @@
         <a href="https://www.linkedin.com/in/sameh-tarek-mohamed-766a0a234/" alt="Linkedin">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" style="width: 30px;">
         </a>
-        <a href="https://github.com/Sameh1Tarek" alt="Github">
+        <a href="https://github.com/sameh-tarek" alt="Github">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" style="width: 30px;">
         </a>
       </p>
