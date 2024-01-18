@@ -1,6 +1,9 @@
+/*** Start CSS Variables ***/
 :root {
     --main-color : #10cab7;
 }
+/*** End CSS Variables ***/ 
+/*** Start Special Components ***/
 .Special-heading {
     color: #ebeceb;
     font-size: 100px;
@@ -24,6 +27,10 @@
         margin-top: -20px;
     }
 }
+
+/*** End Special Components ***/
+
+/*** Start Glopal CSS ***/
 * {
     box-sizing: border-box;
     -webkit-box-sizing: border-box ;
@@ -41,6 +48,8 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+
+/* Small Screen */
 @media (min-width: 768px) {
     .container {
         width: 750px;
@@ -478,23 +487,3 @@ form{
   .toTop.upactive{
     display: flex;
   }
-    .toTop i{
-        transform: rotate(270deg);
-    }
-    .toTop i::before{
-        content: "\f077";
-        font-family: "Font Awesome 5 Free";
-        font-weight: 900;
-    }
-    .toTop i::after{
-        content: "\f077";
-        font-family: "Font Awesome 5 Free";
-        font-weight: 900;
-    }
-    .toTop:hover{
-        background-color: var(--main-color);
-        color: white;
-    }
-    .toTop:hover i{
-        color: white;
-    }
